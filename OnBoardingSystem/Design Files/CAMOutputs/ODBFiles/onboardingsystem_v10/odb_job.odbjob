@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2023-10-02T04:32:32Z",
+        "GenerationSoftware": {
+            "Application": "Fusion 360 Electronics",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "OnBoardingSystem v10"
+        },
+        "Owner": "Nikhil Singh <nikhil4818.be22@chitkara.edu.in>",
+        "Size": {
+            "X": 79.6344,
+            "Y": 41.6816
+        }
+    }
+}
